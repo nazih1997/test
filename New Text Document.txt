@@ -1,0 +1,12 @@
+morgana25410		• Analyze different test catalogs.
+
+• Develop and Implement auto-generating Python scripts using
+ECU-TEST’s internal APIs.
+
+• Generate test reports and investigate unexpected outcomes.
+
+• Resolving Test Bench’s hardware & software bugs/issues.
+
+𝐓𝐨𝐨𝐥𝐬 𝐢𝐧𝐯𝐨𝐥𝐯𝐞𝐝 : ECU-TEST, Offboard Diagnostic Information System(ODIS), Vector CANoe.
+𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐥𝐚𝐧𝐠𝐮𝐚𝐠𝐞 : Python.
+𝐏𝐫𝐨𝐭𝐨𝐜𝐨𝐥𝐬 : UDS, CAN
